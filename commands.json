@@ -37,7 +37,24 @@
                 "dev",
                 "builder",
                 "name",
-                "ad"
+                "ad",
+                "spawn",
+                "setspawn",
+                "codespace"
+            ]
+        }
+    },
+    "item": {
+        "options": {
+            "1": [
+                "get"
+            ]
+        }
+    },
+    "i": {
+        "options": {
+            "1": [
+                "get"
             ]
         }
     }
